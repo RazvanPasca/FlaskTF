@@ -4,7 +4,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="167">
+          <list size="189">
             <item index="0" class="java.lang.String" itemvalue="numba" />
             <item index="1" class="java.lang.String" itemvalue="greenlet" />
             <item index="2" class="java.lang.String" itemvalue="Babel" />
@@ -172,6 +172,28 @@
             <item index="164" class="java.lang.String" itemvalue="Flask-Bcrypt" />
             <item index="165" class="java.lang.String" itemvalue="Flask-Testing" />
             <item index="166" class="java.lang.String" itemvalue="Mako" />
+            <item index="167" class="java.lang.String" itemvalue="PyOpenGL" />
+            <item index="168" class="java.lang.String" itemvalue="absl-py" />
+            <item index="169" class="java.lang.String" itemvalue="pyglet" />
+            <item index="170" class="java.lang.String" itemvalue="glfw" />
+            <item index="171" class="java.lang.String" itemvalue="sklearn" />
+            <item index="172" class="java.lang.String" itemvalue="astor" />
+            <item index="173" class="java.lang.String" itemvalue="kiwisolver" />
+            <item index="174" class="java.lang.String" itemvalue="gast" />
+            <item index="175" class="java.lang.String" itemvalue="mujoco-py" />
+            <item index="176" class="java.lang.String" itemvalue="atari-py" />
+            <item index="177" class="java.lang.String" itemvalue="termcolor" />
+            <item index="178" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="179" class="java.lang.String" itemvalue="tensorboard" />
+            <item index="180" class="java.lang.String" itemvalue="tensorflowjs" />
+            <item index="181" class="java.lang.String" itemvalue="backcall" />
+            <item index="182" class="java.lang.String" itemvalue="Box2D-kengz" />
+            <item index="183" class="java.lang.String" itemvalue="future" />
+            <item index="184" class="java.lang.String" itemvalue="tensorflow-hub" />
+            <item index="185" class="java.lang.String" itemvalue="gym" />
+            <item index="186" class="java.lang.String" itemvalue="Keras" />
+            <item index="187" class="java.lang.String" itemvalue="Markdown" />
+            <item index="188" class="java.lang.String" itemvalue="tensorflow-gpu" />
           </list>
         </value>
       </option>
