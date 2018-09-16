@@ -2,7 +2,6 @@ absl-py==0.2.0
 astor==0.6.2
 backcall==0.1.0
 bleach==1.5.0
-Box2D-kengz==2.3.3
 CacheControl==0.12.4
 cachetools==2.1.0
 certifi==2018.4.16
@@ -78,7 +77,6 @@ sklearn==0.0
 statsmodels==0.8.0
 tensorboard==1.7.0
 tensorflow==1.7.0
-tensorflow-gpu==1.7.0rc1
 tensorflow-hub==0.1.0
 tensorflowjs==0.3.1
 termcolor==1.1.0
