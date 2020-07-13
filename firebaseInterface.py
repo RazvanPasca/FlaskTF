@@ -8,7 +8,6 @@ from config import USER_ID
 os.environ[
     "GOOGLE_APPLICATION_CREDENTIALS"] = "./fridgeio-cbdb1-firebase-adminsdk-nw7ph-5512c75662.json"
 
-cred = credentials.Certificate("./fridgeio-cbdb1-firebase-adminsdk-nw7ph-5512c75662.json")
 firebase_admin.initialize_app(cred)
 dbClient = firestore.Client()
 
